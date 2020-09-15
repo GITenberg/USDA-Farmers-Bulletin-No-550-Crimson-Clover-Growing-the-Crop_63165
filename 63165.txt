@@ -1,0 +1,1040 @@
+The Project Gutenberg EBook of USDA Farmers' Bulletin No. 550: Crimson
+Clover: Growing the Crop, by John Minton Westgate
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: USDA Farmers' Bulletin No. 550: Crimson Clover: Growing the Crop
+
+Author: John Minton Westgate
+
+Release Date: September 10, 2020 [EBook #63165]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK USDA BULLETIN NO. 552: CRIMSON CLOVER ***
+
+
+
+
+Produced by Tom Cosmas from files generously made available
+by USDA through The Internet Archive. All resultant
+materials are placed in the Public Domain.
+
+
+
+
+
+
+
+
+
+
+=Transcriber Note=
+
+Text emphasis denoted by _Italics_ and =Bold=.
+
+
+                                                      Issued July 9, 1913.
+
+                     U. S. DEPARTMENT OF AGRICULTURE.
+
+                          Farmers' Bulletin 550
+
+
+                             CRIMSON CLOVER:
+
+                            GROWING THE CROP.
+
+
+                                    BY
+
+                              J. M. WESTGATE
+
+_Agronomist in Charge of Clover Investigations. Office of Forage-Crop
+Investigations, Bureau of Plant Industry._
+
+
+
+
+WASHINGTON: GOVERNMENT PRINTING OFFICE, 1913.
+
+
+
+
+LETTER OF TRANSMITTAL.
+
+
+                          U. S. Department of Agriculture,
+                                    Bureau or Plant Industry,
+                                            Office or the Chief,
+                                     _Washington, D. C., June 12, 1915_.
+
+Sir: I have the honor to transmit herewith and to recommend for
+publication as a Farmers' Bulletin the accompanying manuscript entitled
+"Crimson Clover: Growing the Crop." This has been prepared by Mr. J. M.
+Westgate, Agronomist in Charge of Clover Investigations, and has been
+submitted by Prof. C. V. Piper, Agrostologist in Charge of Forage-Crop
+Investigations, with a view to publication. It is expected that this
+bulletin will be followed soon by other bulletins, each treating of some
+particular phase of this important crop.
+
+    Respectfully,
+                                               Wm. A. Taylor,
+                                                   _Chief of Bureau_.
+
+  Hon. D. F. Houston,
+      _Secretary of Agriculture_.
+
+
+
+
+CONTENTS.
+
+
+                                                                 Page.
+  Introduction                                                      3
+  History and present distribution of crimson clover                3
+  Requirements for obtaining and maintaining a stand of
+      crimson clover                                                5
+    Preparation of the Seed bed                                     6
+    Fertilizers for crimson clover                                  6
+    Liming soils for crimson clover                                 7
+    Inoculation for crimson clover                                  8
+    Seeding crimson clover                                          8
+  Various methods of seeding crimson clover                         9
+    Seeding crimson clover in intertilled crops                    10
+    Seeding crimson clover after early-maturing crops              12
+    Seeding crimson clover with late summer-seeded annual crops    13
+    Crimson clover in mixtures with other legumes and grain        13
+    Seeding crimson clover alone                                   15
+  Treatment of crimson clover stands after seeding                 15
+
+
+
+
+ILLUSTRATIONS.
+
+
+                                                                 Page.
+  Fig. 1. A single plant of crimson clover.                         4
+       2. A crimson-clover failure on ground too poor in humus      5
+       3. Seeding crimson clover in corn at the last cultivation   10
+       4. Crimson clover in an old cornfield                       11
+       5. Crimson clover and wheat in mixture                      14
+
+
+
+
+CRIMSON CLOVER: GROWING THE CROP.
+
+
+
+
+=INTRODUCTION.=
+
+
+Probably the most important characteristic of crimson clover is its
+ability to grow and make its crop during the season when the land is
+not occupied by the ordinary summer-growth crops. In sections where it
+succeeds, crimson clover can be sown following a grain crop or in an
+intertilled crop in late summer and will mature a hay crop the following
+spring in time to plow the land for spring-seeded crops, such as corn or
+cotton. It may even be held for seed as far north as central Delaware
+and the stubble be plowed under in time for seeding the quick-maturing
+strains of corn. It may be turned under for soil improvement when only 6
+inches high if it Is desired to fit the land for early spring-seeded crops
+Even if only the stubble be turned under, the effect upon the succeeding
+crop will be marked, especially if the soil be deficient in nitrogenous
+fertilizers. The plowing under of the entire plant, however, will more
+rapidly correct any deficiency of nitrates or humus in the soil. It is
+one of the best cover crops for use in orchards and, in fact, under any
+conditions where the soil is likely to wash during the winter months. The
+many uses to which this crop may be put merit a careful study of the best
+methods of establishing ii stand of crimson clover upon a farm.
+
+
+
+
+=HISTORY AND PRESENT DISTRIBUTION OF CRIMSON CLOVER.=
+
+
+Crimson clover (fig. 1) is frequently called "Scarlet clover" and,
+somewhat loss commonly, "German clover," "Italian clover," "French
+clover," "Incarnate clover," "Annual clover," etc. It occurs wild in
+England and in eastern and southern Europe and is grown as a forage and
+soil-improving crop in Italy, France, Germany, Austria, and Great Britain.
+It was introduced into this country as early as 1822, but was grown only
+to a very limited extent until about 1880. It has proved especially
+adapted to the lighter, sandy soils of the eastern part of the United
+States where the winters are not too severe.
+
+In the Middle Atlantic States it is also grown to a considerable extent on
+the clay soils of the Piedmont section.
+
+In Michigan it is sometimes used on the sandy soils as a cover crop in
+peach orchards, although it frequently winterkills. It can not ordinarily
+survive the severe winters of the Northern States.[1]
+
+[1] In such northern sections where a fall-seeded legume is desired it is
+suggested that hairy vetch seeded with rye be used instead. See Farmers'
+Bulletin 515, entitled "Vetches."
+
+[Illustration: Fig. 1.--A single plant of crimson clover.]
+
+Crimson clover is a "winter annual," that is, it ordinarily makes its
+early growth in the autumn, passes the winter in a somewhat dormant but
+green state, makes a very early spring growth, and matures its seed and
+dies before summer. It makes little or no growth in very hot weather and
+therefore should not be sown in the spring, except in the extreme North,
+where it may make a satisfactory growth by autumn, so that & hay crop may
+be taken from it at that time.
+
+
+
+
+=REQUIREMENTS FOR OBTAINING AND MAINTAINING A STAND OF CRIMSON
+CLOVER.=
+
+
+Unless the conditions of soil and moisture are exactly right it is not an
+easy matter to establish a satisfactory stand of crimson clover, even in
+the sections where it is most extensively produced. (Fig. 2.) The lack of
+timely rains in late summer is responsible for most of the failures to
+obtain a satisfactory stand. The young seedlings are very easily killed
+by the hot sun or lack of moisture. On the other hand, if the seeding be
+delayed too long, as, for instance, in waiting for the proper conditions
+of soil moisture, the plants will be unable to make sufficient growth to
+withstand the winter. Briefly speaking, crimson clover should be seeded
+shallow on a moist, reasonably fertile, well-drained, well-settled seed
+bed. Inoculation in some form should be provided, especially when seeding
+it for the first time on any fields in sections comparatively new to this
+crop.
+
+[Illustration: Fig. 2.--A crimson-clover failure on ground too poor in
+humus.]
+
+Crimson clover is not adapted to the white-clay lands in their present
+condition in some portions of the Atlantic Coastal Plain. Such fields
+should be seeded to soy beans or cowpeas when a leguminous crop is
+desired for soil improvement or other purposes.[2] Crimson clover does
+not do well on rough, newly cleared land and it ordinarily requires
+the production of two or three crops or a special preparation by liming,
+manuring, and inoculating before such land presents conditions
+satisfactory for seeding. It is usually better to sow rye for a winter
+cover and cowpeas for a summer crop if a cover crop is thought to be
+needed. In any section where crimson clover has not been previously grown
+the first seeding should be on a small scale to determine whether or not
+it is a practicable crop for the locality in question.
+
+[2] These white-clay soils are nearly always sour, deficient In humus, and
+poorly drained. If limed, subsoiled, drained, and supplied with humus,
+such soils are said to grow crimson clover satisfactorily.
+
+
+=PREPARATION OF THE SEED BED.=
+
+The seed bed for crimson clover should be firm, moist, well settled,
+and fine on top. Any efforts that may be expended to conserve the soil
+moisture previous to seeding are usually justified, especially if there
+be any lack of rainfall during the month previous or the month following
+seeding. Where the clover is seeded in an intertilled crop, such as
+corn, cotton, or tomatoes, the customary cultivation received by these
+crops is ordinarily sufficient for the needs of crimson clover. Where
+grain-stubble land is plowed in preparation for the clover a month or six
+weeks are ordinarily required for the soil to settle sufficiently to make
+a proper seed bed, since after plowing at least one soaking rain, which
+compacts the soil and fills it with moisture, is essential to the proper
+preparation of the seed bed for crimson clover. If the ground be disked,
+a much shorter time and less rain are required for the proper settling of
+the seed bed. The best method of retaining the moisture in the seed bed
+is to harrow or give shallow cultivation shortly after each rain. A fine
+soil mulch on the surface will largely prevent the soil just beneath the
+surface from losing its moisture through evaporation. Such surface tillage
+should, of course, be given before seeding the crimson clover.
+
+
+=FERTILIZERS FOR CRIMSON CLOVER.=
+
+Under the ordinary conditions of soil fertility the fertilizer applied to
+the preceding crop is sufficient for the needs of crimson clover. This
+is especially true where the clover follows such crops as potatoes or
+tomatoes, which are ordinarily heavily treated with fertilizers that are
+not entirely used up by these crops. It is important to realize, however,
+that crimson clover has a very short period of growth and that to make a
+vigorous growth it must have a good supply of plant food. On sandy soils
+where there has been no recent application of fertilizers it is often the
+practice to apply from 200 to 400 pounds of a mixture of equal parts of
+acid phosphate and kainite. On clay soils 300 or 400 pounds per acre of
+acid phosphate are ordinarily sufficient. If the soil be low in nitrates a
+light application of nitrate of soda will assist materially in giving the
+young clover plants a good start and winter which otherwise might have
+proved fatal to the stand. If the seeding has been delayed, as by waiting
+for suitable rains, an application of nitrate fertilizer will stimulate
+the young plants and enable them to make an increased growth before winter.
+
+Any direct application of fertilizer is usually made at seeding time, but
+some few farmers have been found who apply it as a top dressing very early
+the following spring, giving as a reason that there is no loss from winter
+leaching and that the plants are by this method nourished at the time they
+are making their most vigorous growth. Such top dressings of fertilizer
+should not be made while the leaves are wet with rain or dew. Where stable
+manure is applied to crimson clover very marked results follow. It may be
+spread just before seeding, when the clover is not grown in an intertilled
+crop, or it may be applied as a top dressing in winter or very early
+spring.
+
+The more vigorous the growth that can be induced by the application of
+suitable fertilizers the more marked will be the increase in the yield
+of the succeeding crops. On soil not well supplied with humus or plant
+food the use of a reasonable amount of fertilizer will often enable a
+successful crop of clover and succeeding crops to be produced where,
+had not the fertilizers been applied, the clover would have failed.
+Furthermore, the following crop, particularly if it be corn, would also
+fail to give the increased yield which follows a successful stand of
+crimson clover.
+
+An application of barnyard manure will be found to be especially effective
+in obtaining a stand of crimson clover on any thin, galled spots in the
+field. The manure should be worked into the ground and, if possible, a
+second application as a top dressing should be given such thin places to
+partially shade the ground from the August sun while the seedlings are
+establishing themselves.
+
+
+=LIMING SOILS FOR CRIMSON CLOVER.=
+
+Most of the soils in the crimson-clover sections will be found to be
+benefited by liming. Crimson clover, however, does not appear to require
+lime to the extent that red clover does. Frequently on well-drained soils
+in a good state of fertility the crimson clover makes a vigorous growth
+without the use of lime. The stands are, however, usually more uniformly
+good over the limed parts of such fields than on the parts that have
+received no line. The opinion among individual farmers appears to be about
+equally divided as to whether or not it pays them to lime their soils
+for crimson clover. In considering the advisability of applying lime one
+must not lose sight of the need of lime on the part of such other crops
+as cantaloupes or peaches, which require lime and which are either grown
+with the clover or follow it. Inasmuch as the extent of the benefit is
+somewhat uncertain it is suggested that the particular requirements of
+the farm in question be determined by liming small plats at different
+rates before any considerable areas are limed. The most profitable rate of
+application can then be adopted for the whole acreage.
+
+
+=INOCULATION FOR CRIMSON CLOVER.=
+
+Fortunately most of the soils in the crimson-clover sections appear to
+be already inoculated. This is especially true in sandy soil areas where
+crimson clover has been grown for a number of seasons. In sections new to
+this crop inoculation in some form is usually necessary. On clay soils
+inoculation is not always present, even though crimson clover may have
+been grown, for a number of successive seasons on other fields of the farm.
+
+An experiment conducted by the Alabama State Agricultural Experiment
+Station shows how essential inoculation is on soils which have not
+previously grown crimson clover. In this experiment a yield of 4,057
+pounds of crimson clover hay was secured where the plants were inoculated,
+as compared with only 761 pounds where no inoculation was provided. In
+another test by the same station the inoculated plat of crimson clover
+yielded at the rate of 6,100 pounds of cured hay per acre, while the
+uninoculated plat was a total failure.
+
+Inoculation by the use of soil from a crimson-clover field is considerably
+more certain than is inoculation by the use of pure cultures, but soil
+inoculation is open to the danger of introducing noxious weeds, insects,
+and plant diseases, especially if the soil is brought from a distance.
+There is much less danger in this respect if soil from inoculated plants
+can be obtained in the same neighborhood. One very practicable method is
+to apply a bottle of pure culture[3] to a pound or two of the seed and sow
+this in the corner of some field, or even in the garden. The resulting
+plants will be quite sure to be inoculated and will furnish an abundant
+supply of soil for inoculating much larger areas at the next seeding. Care
+must be taken not to allow the sun to shine upon either the pure cultures
+or the soil, or even on the seed after it is broadcasted. For this
+reason it is safest to seed on a cloudy day or after sundown. One very
+satisfactory method of soil inoculation consists merely in mixing together
+equal parts of the proper soil and seed and sowing immediately in front of
+the covering harrow.
+
+[3] Pure cultures are sent free by the U. S. Department of Agriculture.
+Full instructions for using them accompany each bottle.
+
+
+=SEEDING CRIMSON CLOVER.=
+
+Crimson clover may be sown broadcast, by hand, with a wheel-barrow
+"sheep-trough" seeder, or with any of the familiar types of rotary
+seeders. It is sometimes drilled in and there are a number of specially
+constructed drills designed for this purpose.
+
+The consensus of opinion among farmers is that shallow seeding is
+generally best, especially upon the clay soils. An inch in sandy soils and
+half an inch in clay soils appears to be about the right depth except in
+times of drought.
+
+The ordinary rate of seeding is 15 pounds per acre, although some use 20
+pounds, while others are able to obtain satisfactory stands with only 12
+pounds per acre. One pound of seed per acre provides for three seeds for
+every square foot; hence, if every seed produced a plant, 2 pounds per
+acre would be theoretically sufficient to secure a satisfactory stand.
+Under ordinary circumstances, however, it is necessary to allow for some
+of the seed being covered too deep, while a considerable proportion may
+prove to be covered too shallow for successful growth. The principal
+justification of seeding such a quantity and at varying depths lies in
+the fact that in case a dry season develops after seeding the more deeply
+covered seeds will be able to withstand the drought better than those
+covered to a medium depth. If an unusually wet season develops, the
+shallow-planted seeds will give the best results. Moreover, some of the
+seed will fail to germinate. It is also well to have a fairly thick stand
+of the young plants, so that the ground may be well covered even during
+early fall, and thus prevent the winter-growing weeds from establishing
+themselves.
+
+It is held by many farmers that they are more certain of getting a stand
+of crimson clover if they sow the seed in the hull rather than use the
+hulled seed as it ordinarily appears on the market. It is claimed that
+the hulls hold the moisture to some extent. Seed in the hull can easily
+be obtained by flailing out a load of crimson clover which has been left
+uncut in the field until the seed is mature. Many farmers run the clover
+through an ordinary grain thrasher, which delivers the seed in the hull.
+
+
+
+
+=VARIOUS METHODS OF SEEDING CRIMSON CLOVER.=
+
+
+Crimson clover may be seeded in late summer in any of the ordinary
+intertilled crops. It may be seeded alone following any farm crop which
+can be removed from the land by early summer, so that the seed can be
+sown in late summer or very early fall. It may also be seeded for hay in
+mixture with grain, such as wheat, rye, barley, or winter oats, which are
+ready to cut for hay at about the same time as the clover the following
+spring. A very light seeding of an animal catch crop, such as buckwheat,
+may be made with crimson clover in time for the catch crop to make its
+growth before winter.
+
+
+=SEEDING CRIMSON CLOVER IN INTERTILLED CROPS.=
+
+Although crimson clover may be seeded in almost any of the intertilled
+crops, in this country probably half of it is sown in corn at or shortly
+after the time of the last cultivation. (Fig. 3.) It is usually possible
+to make such a seeding, obtain a good growth during the fall and early
+spring, and mature a crop of hay in time for breaking up the land for
+another crop of corn. South of the latitude of central Delaware it is even
+possible to mature a crop of clover seed in time for corn planting. In
+this way it is possible to grow a crop of corn each year and at the same
+time steadily increase the fertility of the soil for a series of years.
+Treated in this manner each succeeding crop of corn can ordinarily be
+materially increased. Instances are reported where the yield of corn has
+been gradually increased by this means from 10 bushels per acre at the
+start until as high as 70 bushels per acre were secured.
+
+[Illustration: Fig. 3.--Seeding crimson clover in corn at the
+last cultivation.]
+
+The newly seeded stands of clover in corn are likely to perish if drought
+occurs at or after seeding time. Tho growing corn makes heavy demands on
+the soil moisture, and if there is not enough moisture for both clover and
+corn the latter gets the larger share and the tender clover plants are
+likely to succumb. It sometimes happens that a very light rain shortly
+after seeding the clover will cause the seeds to germinate, only to perish
+during the succeeding days of dry weather. On account of the competition
+for moisture between the corn and clover it is best to cover the clover
+seed a little deeper than is necessary when it is sown on fallow land.
+
+North, of the Potomac River the last cultivation of the corn comes at
+about the right time for the best results with clover seeded at the same
+time. Farther south, however, there is too much hot weather after the corn
+is laid by, and as a consequence it is best to delay the seeding of the
+crimson clover until about 8 or 10 weeks before the first frost may be
+expected. A light furrow-toothed cultivator or harrow may be run shallow
+between the rows to cover the seed. The seed may be sown broadcast by hand
+or even from horseback with a rotary seeder. In such an event, however, it
+is necessary to cover the ears of the horse with small bags or socks to
+prevent the entrance of the flying seed. A much more even stand is made
+possible if the corn is given level tillage rather than the ridged tillage
+incident to plowing with a 1-horse corn plow and ridging the land. The
+appearance of a field of crimson clover seeded the summer previous in corn
+is indicated in figure 4.
+
+[Illustration: Fig. 4.--Crimson clover in an old cornfield. The clover
+was seeded in the corn at the last cultivation. A fodder stack is to be
+observed in the middle foreground. The cornstalks have been removed to
+avoid difficulty in mowing the clover.]
+
+In North Carolina and southern Virginia it has been found possible under
+favorable conditions to obtain a satisfactory stand of clover by seeding
+in cotton. The clover should not be sown until 10 or 12 weeks before frost
+and the last working of the cotton comes ordinarily at an earlier date
+than this. It is necessary that the cotton be given very clean culture,
+as well as special attention paid to conserving the moisture in the
+prospective clover-seed bed. Unless the first show of cotton is picked
+early it is difficult to cover the clover seed without unduly injuring the
+opened cotton bolls. In the higher and more northern parts of the cotton
+belt it is possible to make the clover seeding before the bolls begin to
+burst.
+
+Crimson clover may be seeded in practically any of the cultivated truck
+crops which receive their last cultivation from 8 to 12 weeks before the
+first frost. It is not practicable to seed the clover in late potatoes,
+as the digging of the potatoes in the fall practically destroys the stand
+of clover. The heavy application of fertilizers necessary for the truck
+crop makes possible a vigorous growth of the clover. The result is that
+the soil is materially built up in both nitrogen and humus. The clover
+makes its growth at a season of the year when the land is not ordinarily
+occupied by any of the regular truck crops.
+
+When timely rains follow the seeding it is possible to seed the clover
+on the surface of the ground among cantaloupe vines and allow the first
+rain to cover the seed. The shade is apparently too dense under watermelon
+vines for the clover seedlings to survive. The writer has obtained a good
+stand by seeding the clover seed, without covering, in sweet potatoes the
+first week in August on sandy land near Washington, D. C. By hand-digging
+the potatoes with a spade a fair stand of the clover plants was left
+unharmed.
+
+
+=SEEDING CRIMSON CLOVER AFTER EARLY-MATURING CROPS.=
+
+It is possible to seed crimson clover after practically any of the
+ordinary farm crops which can be removed from the land three months before
+frost.
+
+It is somewhat difficult to obtain anything like an ideal seed bed for
+crimson clover where a field of grain stubble has been plowed under. The
+soil in a stubble field is apt to be dry and cloddy when plowed, while
+the stubble tends to form a dry mat at the bottom of each furrow. Such a
+condition is likely to continue for a number of weeks after plowing and
+to result disastrously to the clover seedlings unless there be abundant
+and frequent rains. It is ordinarily a better practice to disk the grain
+stubble and harrow every week, or at least after every rain, in order to
+settle the ground and assist in holding the moisture pending the time of
+seeding. Such frequent harrowings will also kill the successive crops of
+germinating weed seeds, which might otherwise injure the young stand of
+clover.
+
+On the other hand, the ground from which early potatoes have been removed
+is very favorable for the establishment of a stand of crimson clover.
+The residual effect of the fertilizers used on the potatoes is partially
+responsible for this, while the well-settled seed bed, which requires
+only leveling and harrowing, also presents favorable conditions for the
+crimson-clover seedlings.
+
+
+=SEEDING CRIMSON CLOVER WITH LATE SUMMER-SEEDED ANNUAL CROPS.=
+
+Crimson clover may be seeded in midsummer or in late summer with a very
+light seeding of buckwheat. The buckwheat soon forms an ideal shade for
+the young clover plants and unless frosts occur very early a crop of
+buckwheat may usually be harvested. This method has been suggested as
+being applicable when seeding the clover in cotton. If the buckwheat
+is not seeded until August it will not ordinarily produce seed in the
+latitude of Washington, D. C. Wherever possible, the seeding of buckwheat
+and crimson clover should be made so early that there will be time for the
+buckwheat to mature its seed crop, as in this way the buckwheat itself
+will pay for the expense of starting both stands. A light seeding of the
+buckwheat must be made, as an ordinary stand of buckwheat shades the
+ground so completely as to destroy the crimson clover.
+
+Another method of preventing the injurious effect of the hot sun of
+late summer is to make a light seeding of cowpeas at the same time that
+the crimson clover is seeded. The cowpeas germinate promptly, and being
+rather thin on the ground do not injure the stand of clover, but on the
+contrary afford sufficient shade to prevent the soil from becoming as
+hot as it otherwise would. In addition, the clover plants receive some
+protection from the direct rays of the sun. There is ordinarily not enough
+time for the cowpeas to mature, so they are either mown for hay or left
+standing to catch the snow during the winter and protect the stand of
+clover. In seedlings made by the writer half a bushel of cowpeas per acre,
+broadcasted, gave vary satisfactory results, the seeding being made August
+1 on sandy ground near Washington, D. C. The clover and cowpeas were sown
+broadcast on early-potato ground and covered from one-half to 1 inch deep.
+
+If a light seeding of turnips be made with the clover, the turnip plants
+will afford some protection to the young clover plants and at the same
+time will ordinarily yield a fair crop of turnips. About 1 pound of turnip
+seed and 15 pounds of clover seed should be sown to the acre. If the
+seeding of turnips be at all heavy the coarse-growing turnip plants will
+choke out too many of the clover plants. The Cow Horn turnips appear to be
+especially adapted for seeding with crimson clover.
+
+
+=CRIMSON CLOVER IN MIXTURES WITH OTHER LEGUMES AND GRAIN.=
+
+When crimson clover is seeded alone on good soil it is likely to make so
+rank a growth as to lodge. To overcome this difficulty it is a common
+practice to seed some small-grain crop with the clover at seeding time.
+South of the Potomac River winter oats are ordinarily very satisfactory,
+especially when seeded with the late white-blooming strain of crimson
+clover. In Delaware and eastern Maryland wheat is commonly used. In
+addition to wheat and oats, rye or barley is sometimes used. The customary
+rate of seeding is about 15 pounds of clover seed and 30 pounds of grain
+per acre. The accompanying illustration (fig. 5) indicates the appearance
+of a field seeded to a mixture of crimson clover and wheat. The grain
+prevents the clover from lodging, facilitates the curing of the clover
+hay, and, in addition, forms a valuable constituent of the resulting hay
+crop. The yield of the mixture is ordinarily somewhat more than when the
+clover is seeded alone. The Alabama State Agricultural Experiment Station
+secured as the average for two years' experiments the following yields of
+hay:
+
+                                                Yield per acre.
+
+  Crimson clover seeded alone                     2,836 pounds.
+  Crimson clover seeded in mixtures:
+      Barley and crimson clover                   3,695 pounds.
+      Wheat and crimson clover                    3,771 pounds.
+      Oats and crimson clover                     4,228 pounds.
+
+[Illustration: Fig. 5.--Crimson clover and wheat in mixture. In the
+foreground the crop has been cut and fed green to stock. The remainder
+was cut the next day for hay. The grain prevents the crimson clover from
+lodging.]
+
+The grain is usually well headed but is in the milk or soft-dough stage
+when the clover is ready to cut. The presence of the grain hay makes the
+clover hay more easily cured. With winter oats it is usually best to seed
+the late white-blooming variety of crimson clover, as the oat crop matures
+somewhat later than the ordinary crimson clover. Another advantage of this
+mixture is that if either should fail the other will be present to serve
+as a cover crop during winter and bring some return the following spring.
+
+Crimson clover may be seeded in mixtures with vetch, shaftal clover,
+trefoil, or, in fact, any winter-growing legume which has a growing season
+similar to crimson clover. Since most of these legumes are not upright in
+their growth it is usually necessary to seed some grain crop with them
+to serve as a support and to prevent the plants from lodging. The grain
+is ordinarily a surer crop than the legumes and practically insures the
+ground being covered with some crop during the winter and spring months.
+
+
+=SEEDING CRIMSON CLOVER ALONE.=
+
+If a good seed bed can be prepared by August 1 in the latitude of
+Washington, D. C., crimson clover will ordinarily produce a satisfactory
+stand if seeded entirely alone. This is especially true on the clay
+soils, where it is often difficult to obtain a successful catch in corn
+at the last working. The seed is sown at the same rate as when seeded
+in corn, namely, about 15 pounds per acre. It is the common practice to
+broadcast the seed and to cover with a very light barrow or weeder. Unless
+the August sun be unduly hot and a drought develops, such seeding will
+ordinarily produce very satisfactory results if the soil be reasonably
+fertile.
+
+
+
+
+=TREATMENT OF CRIMSON CLOVER STANDS AFTER SEEDING.=
+
+
+Ordinarily no special treatment is required after seeding, and before
+winter comes on some fall pasturage may be obtained if the growth be
+sufficiently rank. A light pasturing with sheep has been noted to induce
+heavier stooling on the part of the crimson clover. Only a light pasturing
+with small animals, such as sheep, calves, or chickens, should be made in
+either the fall or spring before the early spring growth is well under
+way. If the time of seeding has been delayed, or if for any reason it is
+feared that the plants will be unable to make sufficient growth before
+cold weather, it has been found that a top dressing of nitrate of soda
+alone or in mixture with muriato of potash will greatly hasten the fall
+growth. This reduces the danger from winterkilling and heaving out in the
+early spring.
+
+
+       *       *       *       *       *
+
+
+=Transcriber Note=
+
+Minor typos have been corrected. Illustrations were moved to prevent
+splitting paragraphs. Produced from files generously made available by
+USDA through The Internet Archive. All resultant materials are placed in
+the Public Domain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of USDA Farmers' Bulletin No. 550:
+Crimson Clover: Growing the Crop, by John Minton Westgate
+
+*** END OF THIS PROJECT GUTENBERG EBOOK USDA BULLETIN NO. 552: CRIMSON CLOVER ***
+
+***** This file should be named 63165.txt or 63165.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/3/1/6/63165/
+
+Produced by Tom Cosmas from files generously made available
+by USDA through The Internet Archive. All resultant
+materials are placed in the Public Domain.
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
